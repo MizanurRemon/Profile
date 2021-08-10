@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. I also enjoy UI design in general.  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Mizanur Rahman
+<!--### Mizanur Rahman-->
 #### Android Developer
 Self-motivated, honest, confident and hardworking person. Passionate to be a software engineer. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
