@@ -12,90 +12,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
+<!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. I also enjoy UI design in general.  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<html lang="en">
-  <head>
+### Mizanur Rahman
+#### Android Developer
+Self-motivated, honest, confident and hardworking person. Passionate to be a software engineer. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
-    <!-- Meta tags help describe your web page to search engines so people can find it more easily -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon&show_icons=true&theme=radical)  
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+Skills: Java / XML / API / Rest API/ NodeJS/ Javascript
 
-    <!-- Facebook's open graph works similarly and helps Facebook to pull images and a description right into your Facebook posts. See also https://developers.facebook.com/docs/sharing/webmasters#markup -->
+- 🔭 I’m currently working on some android projects. 
+- 🌱 I’m currently learning NodeJs 
 
-    <meta property="og:title" content="">
-    <meta property="og:site_name" content="">
-    <meta property="og:url" content="">
-    <meta property="og:type" content="website">
-    <meta property="og:description" content="">
-    <meta property="og:image" content="">
 
-    <!-- Twitter cards work similiarly to Facebook's open graph tags; they pull images and a description right into tweets that link to this page.  See also https://dev.twitter.com/cards/overview -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MizanurRemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mizanurremon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mrahman.remon/)  
 
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="">
-    <meta name="twitter:creator" content="">
-    <meta name="twitter:title" content="">
-    <meta name="twitter:description" content="">
-    <meta name="twitter:image:src" content="">
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-    <!-- Setting the above meta tags including Facebook and Twitter can help more people find and share your content. -->
 
-    <!-- The title appears on the tab in your browser -->
-    <title> </title>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRemon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-    <!-- Favicons are the tiny icons that appear on the tab in your browser. You can create a Favicon at http://www.favicon.cc/ -->
-    <link rel="icon" href="">
 
-    <!-- Bootstrap, a framework that helps you develop with responsive design / mobile-first. See also http://getbootstrap.com/ -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
 
-    <!-- This boilerplate is for compatibility with older browsers -->
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-    <!-- Font Awesome is a free scalable icon set you can use. See icons at http://fortawesome.github.io/Font-Awesome/icons/ -->
-    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-    <!-- Add your own fonts here from Google Fonts: http://www.google.com/fonts -->
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    
-    <!-- Include any CSS files here -->
-
-    <!-- Google Analytics Code, add your snippets below.  Sign up / get your snippet at http://www.google.com/analytics/ -->
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-      ga('create', 'PUT-YOUR-CODE-HERE', 'PUT-YOUR-WEBSITE-HERE');
-      ga('send', 'pageview');
-    </script>
-
-  </head>
-
-<body>
-
-<!-- Anchors like this let you link to different sections of your page without leaving the page itself. -->
-<a name="top"></a>
-
-<div class="container-fluid">
-  <!-- Start editing! Your content goes below -->
-
-  <!-- End editing! Your content goes above -->
-</div>
-
-  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-
-  </body>
-</html>
