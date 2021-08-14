@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 Self-motivated, honest, confident and hardworking person. Passionate to be a software engineer. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
 ### Skills
-<!--Java / XML / API / Rest API/ NodeJS/ Javascript-->
-Items  | Items
-------------- | -------------
-Java  |  API
-XML  | Rest API
-NodeJS | Javascript
+* Java 
+* XML 
+* API 
+* Rest API
+* NodeJS
+* Javascript
 
 <!--- 🔭 I’m currently working on some android projects. 
 - 🌱 I’m currently learning NodeJs -->
