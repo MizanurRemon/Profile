@@ -22,6 +22,8 @@ Self-motivated, honest, confident and hardworking person. Passionate to be a sof
 ### Skills
 <!--* Java 
 * XML 
+* Flutter
+* Dart
 * API 
 * Rest API
 * NodeJS
@@ -31,11 +33,12 @@ Self-motivated, honest, confident and hardworking person. Passionate to be a sof
 
 <!-- Programming Language -->
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/ANDROID-Studio-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Flutter-Dart-orange?style=for-the-badge&logo=flutter&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">
+<!--<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25">-->
 
 
 
@@ -47,7 +50,6 @@ Self-motivated, honest, confident and hardworking person. Passionate to be a sof
 
 <br>
   
- <img src="https://img.shields.io/badge/ANDROID-Studio-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
@@ -60,8 +62,8 @@ Self-motivated, honest, confident and hardworking person. Passionate to be a sof
 
 </p>
 
-<!--- 🔭 I’m currently working on some android projects. 
-- 🌱 I’m currently learning NodeJs -->
+<!--- 🔭 I’m currently working as a Mobile App Developer at myZoo. 
+- 🌱 I’m currently learning Flutter-->
 
 <!--### Experiences-->
 
