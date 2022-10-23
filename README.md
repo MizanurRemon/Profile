@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. Currently I am working as a Mobile App Developer at myZoo. I am enjoying my days here by learning new things and emphasize on company's progress.
+<!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. I also enjoy UI design in general.  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon)](https://github.com/anuraghazra/github-readme-stats)-->
 
 # Mizanur Rahman
 ## Android Developer
-Self-motivated, honest, confident and hardworking person. Passionate to be a software engineer. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
+Self-motivated, honest, confident and hardworking person. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
 ### Skills
 <!--* Java 
@@ -68,7 +68,7 @@ Self-motivated, honest, confident and hardworking person. Passionate to be a sof
 <!--### Experiences-->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MizanurRemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mizanurremon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mrahman.remon/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MizanurRemon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mizanurremon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mrahman.remon/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
