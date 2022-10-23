@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. I also enjoy UI design in general.  
+<!--Hi, Myself Mizanur Rahman. I am an Android App Developer. I really enjoy learning new things and take challenges. Currently I am working as a Mobile App Developer at myZoo. I am enjoying my days here by learning new things and emphasize on company's progress.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon)](https://github.com/anuraghazra/github-readme-stats)-->
 
 # Mizanur Rahman
