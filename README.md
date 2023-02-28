@@ -45,6 +45,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
  
  <!--UI-->
  <br>
+ <img src="https://img.shields.io/badge/XML-red?style=for-the-badge&logo=android&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/Jetpack Compose-7F52FF?style=for-the-badge&logo=android&logoColor=white" height="25">
 
 
