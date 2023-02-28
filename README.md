@@ -37,11 +37,14 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 
  <!--FRAMEWORK-->
-<img src="https://img.shields.io/badge/ANDROID-Studio-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
+ <br>
+<img src="https://img.shields.io/badge/ANDROID-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/SPRING-342B029.svg?&style=for-the-badge&logo=spring&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
  
+ 
  <!--UI-->
+ <br>
  <img src="https://img.shields.io/badge/Jetpack Compose-7F52FF?style=for-the-badge&logo=android&logoColor=white" height="25">
 
 
@@ -55,6 +58,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
   
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
+ <img src="https://img.shields.io/badge/ANDROID_STUDIO-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" height="25">
  
