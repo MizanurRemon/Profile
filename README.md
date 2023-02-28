@@ -73,7 +73,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
 
 
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+<!--<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon&show_icons=true&theme=radical)  
 
