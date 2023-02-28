@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon)](https://github.com/anuraghazra/github-readme-stats)-->
 
 # Mizanur Rahman
-### Jr. Software Engineer, Impel IT Solutions
+##### Jr. Software Engineer <br> Impel IT Solutions
 Self-motivated, honest, confident and hardworking person. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
 
-### Skills
+#### Skills
 <!--* Java 
 * XML 
 * Flutter
