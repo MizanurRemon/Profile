@@ -40,6 +40,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
  <br>
 <img src="https://img.shields.io/badge/ANDROID-blue?style=for-the-badge&logo=android&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/SPRING-342B029.svg?&style=for-the-badge&logo=spring&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/ANGULAR-AB0C27.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25">
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25">
  
  
@@ -50,6 +51,7 @@ Self-motivated, honest, confident and hardworking person. As a part of my desire
 
 
 <br>
+<img src="https://img.shields.io/badge/POSTGRESQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
