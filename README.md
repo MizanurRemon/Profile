@@ -17,7 +17,11 @@ Here are some ideas to get you started:
 
 # Mizanur Rahman
 ##### Jr. Software Engineer <br> Impel IT Solutions
-Self-motivated, honest, confident and hardworking person. As a part of my desire, want to use my technical skill and abilities in the best possible way for achieving company's goal and gather experience along with knowledge.
+### About Myself
+* Fast Learner
+* Hardworking
+* Dedicated
+* Enthusiastic
 
 #### Skills
 <!--* Java 
