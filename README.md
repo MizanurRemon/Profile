@@ -86,9 +86,14 @@ Here are some ideas to get you started:
 
 <!--<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MizanurRemon&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanurRemon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MizanurRemon&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizanurRemon&theme=github_dark)
+
+
+
 
 
 
