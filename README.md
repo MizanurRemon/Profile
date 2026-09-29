@@ -92,6 +92,8 @@ Here are some ideas to get you started:
 
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizanurRemon&theme=github_dark)
 
+![Commit Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MizanurRemon&theme=github_dark)
+
 
 
 
