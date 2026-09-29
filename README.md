@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MizanurRemon&theme=github_dark)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizanurRemon&theme=github_dark)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MizanurRemon&theme=github_dark)
 
 
 
